@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DIO](https://img.shields.io/badge/DIO-Bootcamp-00C4CC?style=for-the-badge)
 ![LuizaLabs](https://img.shields.io/badge/LuizaLabs-Challenge-FF5A00?style=for-the-badge)
-![License](https://img.shields.io/github/license/dio-luizalabs-python?style=for-the-badge)
 
 ## 📌 Sobre
 
