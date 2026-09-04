@@ -1,0 +1,10 @@
+print(111111 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10 + 10)
+print(1.5 + 74.99)
+print(True)
+print(False)
+print("Olá, mundo!")
+
+int ()
+float ()
+str ()
+bool ()
