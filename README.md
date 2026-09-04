@@ -31,10 +31,4 @@ Este é um repositório de **estudo pessoal**. Se você encontrou algo que possa
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
 <p align="center">Feito com 💙 durante o Bootcamp LuizaLabs | DIO</p>
